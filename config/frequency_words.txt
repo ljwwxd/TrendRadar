@@ -6,17 +6,9 @@ DeepSeek
 HarmonyOS
 任正非
 
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
 特斯拉
 马斯克
+spacex
 
 微软
 Microsoft
@@ -24,8 +16,6 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -43,19 +33,19 @@ ai
 !gai
 人工智能
 
-自动驾驶
-
-机器人
-
-国产
 中国
 商业航天
+AIDC
+算力
 
 美国
 日本
 韩国
+@8
 
 新材料
+有色金属
+
 
 投资
 黄金
